@@ -1,0 +1,12 @@
+how to testng run?
+select class-->runas-->testngTest
+
+TestNG result is displayed into two windows:
+
+Console Window
+TestNG Result Window
+
+how to HTML Reports
+ Execute the newly created TestNG class. Refresh the project 
+A folder named as “test-output” shall be generated
+open on the “emailable-report.html"
